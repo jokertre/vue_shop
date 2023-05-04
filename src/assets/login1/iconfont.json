@@ -1,0 +1,58 @@
+{
+  "id": "4040202",
+  "name": "vue_shop1",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "517496",
+      "name": "user",
+      "font_class": "custom-user",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "768547",
+      "name": "password",
+      "font_class": "3701mima",
+      "unicode": "e66b",
+      "unicode_decimal": 58987
+    },
+    {
+      "icon_id": "1058101",
+      "name": "Password",
+      "font_class": "password",
+      "unicode": "e663",
+      "unicode_decimal": 58979
+    },
+    {
+      "icon_id": "6151151",
+      "name": "user-fill",
+      "font_class": "user-fill",
+      "unicode": "e7d5",
+      "unicode_decimal": 59349
+    },
+    {
+      "icon_id": "19410758",
+      "name": "用户",
+      "font_class": "user",
+      "unicode": "e99e",
+      "unicode_decimal": 59806
+    },
+    {
+      "icon_id": "677589",
+      "name": "密码",
+      "font_class": "mima",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "677608",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    }
+  ]
+}
